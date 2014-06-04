@@ -1,0 +1,2 @@
+serviceClass: pair_pro.client.GreetingService
+path: 670D75F68B96B004EEFBB934DC0B4719.gwt.rpc

@@ -1,0 +1,3 @@
+# Module mamimopizza
+# RPC service class, partial path of RPC policy file
+pair_pro.client.GreetingService, 670D75F68B96B004EEFBB934DC0B4719.gwt.rpc
