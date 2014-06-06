@@ -6,4 +6,5 @@ public interface GreetingServiceAsync {
 
 	void greetServer(String name, AsyncCallback<String> callback);
 
+	
 }
